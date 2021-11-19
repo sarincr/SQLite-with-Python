@@ -1,3 +1,0 @@
--- Employee definition
-
-CREATE TABLE Employee(date text, First_Name text, Last_Name text, Age real);
